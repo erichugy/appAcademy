@@ -1,15 +1,15 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 5em;
+    font-family: "Roboto Condensed", sans-serif;
+    padding: 10px;
+    margin: 0;
+    font-weight: 2px;
+    text-decoration: underline;
+    color: #bc3737;
+    background-color: #ffe0b2;
 }
 
-h2 {
+/* h2 {
     font-size: ;
     font-family: ;
     padding: ;
@@ -34,4 +34,4 @@ p {
     background-color: ;
     height: ;
     width: ;
-}
+} */
